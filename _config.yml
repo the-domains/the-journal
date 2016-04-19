@@ -1,0 +1,28 @@
+name: The Journal
+favicon: null
+layout_spectrum: 0.9305019909515977
+typography_spectrum: 0.9373486526310444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6298332195729017
+  lightness: 0.9445233617443591
+  saturation: 0.8516228364314884
+  rhythmicContrast: 0.7570692296139896
+purpose: []
